@@ -6,7 +6,14 @@ Program learns the function target = sin(x − 3) cos(y) + N(0, 0.1), where N is
 ### Requirements:
 ```
 python 2.7
-scipy
+conda install matplotlib
+```
+
+### Installing Requirements:
+```
+conda create --name python27 python=2.7
+source activate python27
+conda install matplotlib
 ```
 
 ### Usage:
