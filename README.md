@@ -23,7 +23,7 @@ conda install matplotlib
 
 ### Usage:
 ```
-python2 SuperLearn.py
+python SuperLearn.py
 ```
 should output f10000
 
